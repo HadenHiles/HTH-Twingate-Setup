@@ -6,8 +6,9 @@ Follow the instructions below to access the media server from anywhere with ease
 
 ## Authenticate with Twingate
 1. Click on the Twingate icon in the System Tray (Windows), the Menu Bar (Mac), or open the Twingate app on your phone
-2. Click "log in to How To Hockey"
-3. Authenticate (sign up/sign in) using the email (or google account) you were invited with (ex. yourname@gmail.com)
+2. Input **howtohockey***.twingate.com*
+3. Click "log in to How To Hockey"
+4. Authenticate (sign up/sign in) using the email (or google account) you were invited with (ex. yourname@gmail.com)
 
 ## Mount the server to your device (connect)
 <img align="left" src="/Windows-Logo.png" alt="" width="50"></img>
